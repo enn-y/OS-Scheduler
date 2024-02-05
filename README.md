@@ -42,4 +42,3 @@ For command prompt on Windows:
 - Lua Chong En hcycl5@nottingham.edu.my
 - Joseph Emmanuel Chay Huan Qin hcyjc11@nottingham.edu.my
 - Jonathan James Rawding hfyjk6@nottingham.edu.my
-- Jie Zhan Keh hfyjk6@nottingham.edu.my
